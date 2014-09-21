@@ -1,0 +1,8 @@
+{
+	"buildFileName" :	"My_Test_App_1_0.ipa",
+	"buildTitle"	:	"My Test App 1.0",
+	"buildDesc"		:	"",
+	"bundleId"		:	"com.mycompany.com.mytestapp",
+	"schema"		:	"None",
+	"appVersion"	:	"1.0"
+}
